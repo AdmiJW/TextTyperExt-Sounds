@@ -1,6 +1,6 @@
 {
   "name": "text-typer-ext-sound",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TextTyper's Extension - Typing sounds",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,8 @@
     "webpack": "^5.21.2",
     "webpack-cli": "^4.5.0"
   },
-  "repository" : {"type": "git", "url": "https://github.com/AdmiJW/TextTyperExt-Sounds"}
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdmiJW/TextTyperExt-Sounds"
+  }
 }
