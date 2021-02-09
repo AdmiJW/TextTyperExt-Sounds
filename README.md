@@ -1,6 +1,6 @@
 # ⌨️ Text Typer Extension - Typing Sounds ⌨️
 
-Enchance the typing with keyboard sound effects. Extension of [TextTyper](TOFILLHERE)
+Enchance the typing with keyboard sound effects. Extension of [TextTyper](https://www.npmjs.com/package/text-typers)
 
 ## Credit 
 Credit  Sound Effects to [Here](https://gaminggem.com/cherry-mx-mechanical-switch-guide/)
@@ -9,9 +9,21 @@ Credit  Sound Effects to [Here](https://gaminggem.com/cherry-mx-mechanical-switc
 <br>
 
 ### __Links__
+* [Usage](#usage)
 * [Example](#example)
 * [Settings](#settings)
 * [Setting Constants](#setting-constants)
+
+<br>
+
+# Usage
+
+Simply put the extension script tag under the core module's. Like so:
+
+```html
+<script src='https://unpkg.com/text-typers@latest/build/bundle.js'></script>
+<script src='https://unpkg.com/text-typer-ext-sound@latest/dist/cursor_ext_sound.js'></script>
+```
 
 <br>
 
