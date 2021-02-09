@@ -1,0 +1,15 @@
+{
+  "name": "text-typer-ext-sound",
+  "version": "1.0.0",
+  "description": "TextTyper's Extension - Typing sounds",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "AdmiJW",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
